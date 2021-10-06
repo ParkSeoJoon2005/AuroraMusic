@@ -1,6 +1,11 @@
 
 ## 🚀 Deployment
 
+### Railway (Recommended)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask&envs=API_HASH%2CAPI_ID%2CARQ_API_KEY%2CASSISTANT_NAME%2CBG_IMAGE%2CBOT_NAME%2CBOT_NAME%2CBOT_USERNAME%2CDURATION_LIMIT%2CPROJECT_NAME%2CSESSION_NAME%2CSUDO_USERS%2CSUPPORT_GROUP%2CUPDATES_CHANNEL&optionalEnvs=API_HASH%2CAPI_ID%2CARQ_API_KEY%2CASSISTANT_NAME%2CBG_IMAGE%2CBOT_NAME%2CBOT_NAME%2CBOT_USERNAME%2CDURATION_LIMIT%2CPROJECT_NAME%2CSESSION_NAME%2CSUDO_USERS%2CSUPPORT_GROUP)
+
+
 ### 💜 Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/MusicPlayer)
